@@ -1,0 +1,16 @@
+{
+  "name": "daddyisherebot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "daddyisheretechno",
+  "license": "ISC"
+}
